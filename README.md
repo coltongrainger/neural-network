@@ -2,7 +2,7 @@
 title: README
 author: 
     - Colton Grainger
-    - Laura Hayes
+    - Julie Hayes
 date: 2018-08-21
 revised:
 ---
