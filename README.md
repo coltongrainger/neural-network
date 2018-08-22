@@ -11,7 +11,7 @@ From the original author, Izabel Aguiar:
 
 > The Neural Network is a weekly newsletter spotlighting members of the Computer Science community at the University of Colorado Boulder.
 
-For the 2018--2019 academic year, Laura Hayes and Colton Grainger will be continuing the newsletter. We plan to extend interviews to sibling disciplines, e.g., Mathematics, Applied Maths.
+For the 2018--2019 academic year, Julie Hayes and Colton Grainger will be continuing the newsletter. We plan to extend interviews to sibling disciplines, e.g., Mathematics, Applied Maths.
 
 Interview projects of the same genre:
 
