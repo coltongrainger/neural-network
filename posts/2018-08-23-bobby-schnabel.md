@@ -4,6 +4,8 @@ author: Izabel Aguair
 date: 2018-08-23
 ---
 
+![Bobby Schnabel](/assets/bobbyschnabel.jpg)
+
 Given the many titles and roles Bobby Schnabel has held in the Computer Science department, he is an extremely difficult man to introduce.  Although he self-identifies as “Chief Maverick and Rabble Rouser”, Bobby is also the founding director of the ATLAS Institute, an external chair for the CS department, the co-founder of the National Center for Women and Information Technology (NCWIT), the College of Engineering and Applied Science Faculty Director for Entrepreneurship, and the Campus Thought-Leader on Computing. Do you see Bobby around campus and want to get to know him better? He is extremely kind, eager to meet new people, and wonderful to talk to—just reach out and say hi!
 
 ## You've had a lot of different roles, what did you learn from each?
