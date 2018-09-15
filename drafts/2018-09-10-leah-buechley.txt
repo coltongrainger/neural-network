@@ -1,29 +1,21 @@
-------------------------
-What is your path in getting to CU Boulder?
-------------------------
-"I wouldn't recommend my path - it was pretty random"
+JH: What was your path to CU Boulder?
+
 Undergraduate degree in physics...
-Working in New York in the arts - really poor and jobs that didn't feel like they were going anywhere
 Computer Science as a way to be creative and constructive in math
 "A philosophical draw more than anything else"
-I applied to schools that were in the west - it was really lucky and pretty random 
 
 
 Albuquerque
 
-------------------------
 How did you end up with Eisenberg?
-------------------------
-Just ended up taking several of his classes - his classes were really appealing because of the courses he was teaching
 Then just luck of timing... he got a big grant right when I finished my second year of graduate school
 
 
-Are you still doing research now?
+## Are you still doing research now?
 
 Developing new ways of working with materials and technologies, less time
 Approaching research experience 
 
-Small design and engineering firm - continue to work on lillypad
 
 Developing new technologies
 
@@ -31,20 +23,13 @@ A fair amount of teaching and consulting for educational institutions
 
 A bunch of giving talks 
 
-------------------------
-How would you explain your research to a ten-year-old?
-------------------------
 
 
 
 
-------------------------
 What is the work you've seen happening (other than your own) that you're really excited about?
-------------------------
 There's so much neat stuff
-In computational design, I've been really obsessed with ceramics lately - computationally 
 
-Berkeley group - 3D printed ceramics
 
 Developing the materials that get printed
 Collecting soil from different places to make pots
@@ -53,57 +38,26 @@ Nervous system is a design company that was started by 2 MIT grads
 Jewelery and 3D printed clothing, experimenting with ceramics
 Anchored in computation, mathematics, biology
 
-Iris Van Herpen fashion designer - one of the first people to make 3D printed dresses and clothes
 
-------------------------
-What are you most proud of?
-------------------------
+## What are you most proud of?
 My kids
 Professionally, I feel wonder and pride about the fact that in modest but meaningful ways I feel like 
 
 
-------------------------
-Reader Action Item
-------------------------
+## Reader Action Item
 Go and play spend 5 minutes playing and doing something absurd and delightful and strange on purpose
 Go read about the equality of opportunity project out of Stanford
 
-------------------------
-Favorite maths joke or xkcd cartoon?
-------------------------
 
+## If you could make sure everybody in the world knew one thing, what would that one thing be?
 
-
-------------------------
-If you could make sure everybody in the world knew one thing, what would that one thing be?
-------------------------
-I would like to see more appreciation for complexity - grayness - ability to grapple with ambiguity/complexity, and more modesty... like people not being so sure that they're right
-
-------------------------
-Janet Ruppert's question: Do you use the 'Four P's' framework to inform your work (peer, passion, projects, play)? What is your opinion on adding the 5th 'P' (purpose) to the media studies curriculum?
-------------------------
+## Janet Ruppert's question: Do you use the 'Four P's' framework to inform your work (peer, passion, projects, play)? What is your opinion on adding the 5th 'P' (purpose) to the media studies curriculum?
 Haven't used that framework in the past...
 I might feel ambivalent ... depends on the baggage that comes with it... 
-It narrows things in a not-useful way
 
-------------------------
-Nicole Sanderson's question: What parts of computer science do we expect to be empowering ?
-------------------------
-Seeing and thinking of computer science as a creative, expressive medium - that was certainly really empowering to me personally - it feels like that opens up a new set of doors for people - that's a big one.
+## Nicole Sanderson's question: What parts of computer science do we expect to be empowering ?
 
-Sharing a diverse set of examples with kids; giving them the sense of agency and possibility - seeing themselves reflected in CS practitioners 
 
-------------------------
 Additional interviews?
-------------------------
 "I have such fond memories of people 
-ATLAS - Mark Gross
-Laura Davendorf in ATLAS - home in school of information - delightful, whimsical
 Jim Martin
-
-------------------------
-Colton
-------------------------
-
-
-
