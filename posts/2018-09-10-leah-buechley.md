@@ -3,7 +3,7 @@ title: Leah Buechley
 author: 
 - Colton Grainger
 - Julie Hayes
-date: 2018-09-15
+date: 2018-09-10
 ---
 
 [Leah Buechley](http://leahbuechley.com/) is an alumna of CU Boulder (PhD in Computer Science). Her 2008 thesis was *[An investigation of computational textiles with applications to education and design](http://www.cs.colorado.edu/events/defenses/2007-2008/buechley.html)*. Since 2008 she's worked as a designer, engineer, and educator. She presently runs a design firm, [Rural/Digital](https://www.rural-digital.com/), in Albuquerque, New Mexico.
